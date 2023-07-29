@@ -25,3 +25,6 @@ export const SideBarContainer = styled.div`
     text-align: Center;
   }
 `
+export const Links = styled.div`
+  margin: 12px 0;
+`
