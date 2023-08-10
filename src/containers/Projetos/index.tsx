@@ -16,6 +16,22 @@ const Projetos = () => (
       </li>
       <li>
         <Projeto
+          title="Lista de contatos"
+          description="Uma aplicação de contatos produzida em React com plugins"
+          link="https://contactlist-react.vercel.app"
+          git="https://github.com/JoaoLubaw/contactlist-react"
+        ></Projeto>
+      </li>
+      <li>
+        <Projeto
+          title="Eplay"
+          description="Um marketplace completo de uma loja virtual de games, produzido no React, com diferentes plugins"
+          link="https://e-play-delta.vercel.app"
+          git="https://github.com/JoaoLubaw/ePlay"
+        ></Projeto>
+      </li>
+      <li>
+        <Projeto
           title="Clone Disney Plus (Pt1)"
           description='Com react recriei a homepage e uma página de play de um título do Disney Plus - Aperte no botão "Entrar" para acessar a segunda parte.'
           link="https://clone-disney-plus-hkwl.vercel.app"
