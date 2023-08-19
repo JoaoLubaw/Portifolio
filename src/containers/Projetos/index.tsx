@@ -8,6 +8,14 @@ const Projetos = () => (
     <Lista>
       <li>
         <Projeto
+          title="eFood"
+          description="Marketplace alimenticio, feito apartir do modelo sugerido pelo professor do Curso, projeto de conclusão de parte Front-End. Feito em React! s2"
+          link="https://efood-mu.vercel.app"
+          git="https://github.com/JoaoLubaw/efood/"
+        ></Projeto>
+      </li>
+      <li>
+        <Projeto
           title="To-do"
           description="Projeto de lista de tarefas criado apartir do React (Single Page Application)"
           link="https://todo-react-pi-liart.vercel.app"
